@@ -1,8 +1,10 @@
-**# Week11 Assignment Reflection**
+# **Week11 Assignment Reflection**
 
-- With the deployment I started off by reading all of the instructions in the README as well as the OAuth documentation and the video on Moodle. Once i knew what everything did, it was much easier to follow the instructions through a second time and get my vercel deployment working
+- With the deployment I started off by reading all of the instructions in the README as well as the OAuth documentation and the video on Moodle. Once i knew what everything did, it was much easier to follow the instructions through a second time and get my vercel deployment working.
 
-**# Assignment Brief**
+##Stretch Goals 🎯
+
+# **Assignment Brief**
 
 ## Upvote
 
