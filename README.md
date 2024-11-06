@@ -1,8 +1,14 @@
 # **Week11 Assignment Reflection**
 
 - With the deployment I started off by reading all of the instructions in the README as well as the OAuth documentation and the video on Moodle. Once i knew what everything did, it was much easier to follow the instructions through a second time and get my vercel deployment working.
+- As a whole i found it quite challenging to add onto someone elses work as there is always tahat time at the beginning where we have to spend trying to figure out what exactly is happening or going on. In addition to the fact that everyone codes a bit differently
 
-##Stretch Goals 🎯
+## Stretch Goals 🎯
+
+- As a group we first tried to add an error page and a not-found page to make it a little bit more user friendly
+  - We had a coule of issues getting the error page to work as it wouldn't redirect with the link however, we managed to get it working with the reset button in the end
+- We also managed to change the title on the tabs by generating metadata for each page
+- I had a go at creating a user profile page where the user could see which posts they had done. I got it working to some success i think but we ran out of time to test if it actually worked as i am the old one who currently has any posts
 
 # **Assignment Brief**
 
