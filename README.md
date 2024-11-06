@@ -2,6 +2,7 @@
 
 - With the deployment I started off by reading all of the instructions in the README as well as the OAuth documentation and the video on Moodle. Once i knew what everything did, it was much easier to follow the instructions through a second time and get my vercel deployment working.
 - As a whole i found it quite challenging to add onto someone elses work as there is always tahat time at the beginning where we have to spend trying to figure out what exactly is happening or going on. In addition to the fact that everyone codes a bit differently
+- It was nice to get a snippet of what it would be like working on a larger project that you may have only joined part way through
 
 ## Stretch Goals 🎯
 

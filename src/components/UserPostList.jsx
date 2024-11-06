@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Pagination } from "./Pagination";
+import { Pagination2 } from "./Pagination";
 import { Vote } from "./Vote";
 import { db } from "@/db";
 import { POSTS_PER_PAGE } from "@/config";
@@ -42,7 +42,7 @@ export async function UserPostList({ currentPage = 1 }) {
           </li>
         ))}
       </ul>
-      <Pagination currentPage={currentPage} />
+      <Pagination2 currentPage={currentPage} />
     </>
   );
 }
