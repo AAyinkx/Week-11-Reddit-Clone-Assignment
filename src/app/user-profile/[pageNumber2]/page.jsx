@@ -6,7 +6,7 @@ export default async function UserProfile({ params }) {
     <div className="text-center place-content-center mt-10">
       <h1>Hello {session.user.name}</h1>
       <p>These are you posts</p>
-      <UserPostList currentPage={parseInt(params.pageNumber, 10)} />
+      <UserPostList currentPage={parseInt(params.pageNumber2, 10)} />
       {console.log(typeof params.pageNumber)}
     </div>
   );
