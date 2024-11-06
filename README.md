@@ -1,3 +1,9 @@
+**# Week11 Assignment Reflection**
+
+- With the deployment I started off by reading all of the instructions in the README as well as the OAuth documentation and the video on Moodle. Once i knew what everything did, it was much easier to follow the instructions through a second time and get my vercel deployment working
+
+**# Assignment Brief**
+
 ## Upvote
 
 Upvote is a Reddit-esque web application that allows users to create posts, upvote and downvote posts, and comment on posts in a multi-threaded, nested list.
@@ -46,7 +52,3 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
-
-**## Week11 Assignment Reflection**
-
-- With the deployment I started off by reading all of the instructions in the README as well as the OAuth documentation and the video on Moodle. Once i knew what everything did, it was much easier to follow the instructions through a second time and get my vercel deployment working
