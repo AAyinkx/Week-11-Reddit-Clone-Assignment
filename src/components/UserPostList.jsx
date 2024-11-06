@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Pagination2 } from "./Pagination";
+import { Pagination2 } from "./Pagination2";
 import { Vote } from "./Vote";
 import { db } from "@/db";
 import { POSTS_PER_PAGE } from "@/config";
