@@ -24,7 +24,7 @@ The project is a work in progress and is not yet complete.
 3. Create a `.env.local` file in the root directory and add the following environment variables:
    - `DATABASE_URL` - the URL of your Postgres database (eg. the Supabase connection string)
    - `AUTH_SECRET` - the Next Auth secret string (this can be anything at all like a password, but keep it secret!)
-   - `AUTH_GITHUB_ID` - the GitHub OAuth client ID (create yours in [Github developer settings](https://github.com/settings/developers)
+   - `AUTH_GITHUB_ID` - the GitHub OAuth client ID (create yours in [Github developer settings](https://github.com/settings/developers))
    - `AUTH_GITHUB_SECRET` - the GitHub OAuth client secret (create this in [Github developer settings](https://github.com/settings/developers))
 4. Create the database schema by running the SQL commands in `schema.sql` in your database (eg. by running the commands in Supabase Query Editor)
 5. Run `npm run dev` to start the development server
@@ -46,3 +46,7 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+**## Week11 Assignment Reflection**
+
+- With the deployment I started off by reading all of the instructions in the README as well as the OAuth documentation and the video on Moodle. Once i knew what everything did, it was much easier to follow the instructions through a second time and get my vercel deployment working
